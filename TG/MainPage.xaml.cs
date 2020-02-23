@@ -22,6 +22,7 @@ namespace TG
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        // i want to see this
         public MainPage()
         {
             this.InitializeComponent();
